@@ -4,10 +4,10 @@ Description: CI/CD Pipeline for ECS Fargate app with CodeBuild, CodePipeline, an
 Parameters:
   GitHubUser:
     Type: String
-    Default: HalfBloodPrince-3105
+    Default: bhargav3738    
   GitHubRepo:
     Type: String
-    Default: FInal_Exam
+    Default: final
   GitHubBranch:
     Type: String
     Default: main
